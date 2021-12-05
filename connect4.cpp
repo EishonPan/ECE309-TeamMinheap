@@ -12,7 +12,7 @@ public:
 	char piece;
 
 	void win() {
-		cout << endl << this -> playerName << " You Win!" << endl;
+		cout << endl << this -> playerName << " You Win!" << endl; // displays who won the game.
 	}
 	
 	void getName(int player_id, char piece) {	// Read the name of Number #<player_id>, whose chess character is <piece>

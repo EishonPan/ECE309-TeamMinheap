@@ -4,4 +4,4 @@ Compile on mac by compiling with make connect, then running the program with ./c
 
 This program was made by Will Harger, Charles Terry, and Yixuan Pan
 
-Interesting fetures include a printed display of the game board updated every turn.
+Interesting features include a printed display of the game board updated every turn.
